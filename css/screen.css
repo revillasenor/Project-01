@@ -10,7 +10,8 @@ input[type=text]
 	margin-right: 5em;
     margin-left: 5em;
     -webkit-overflow-scrolling:touch;
-    text-align: center;
+		text-align: center;
+		font-family: 'Oswald';
  }
 h1{
 	color:white;
@@ -30,7 +31,9 @@ h2{
 }
 .form {
 	margin : 4em;
-	padding : 2em;	
+	padding : 2em;
+	border: 0.5em solid yellow;	
+	border: 5px 10px;
 }  
 label{
 	font-size: 1em;

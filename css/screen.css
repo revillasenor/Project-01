@@ -1,0 +1,38 @@
+input[type=text]
+  {
+    min-width : 60%;
+	max-width : 70%;
+	min-width : 60%;
+	max-width : 70%;
+  }
+ body{
+	background-color: green;
+	margin-right: 5em;
+    margin-left: 5em;
+    -webkit-overflow-scrolling:touch;
+    text-align: center;
+ }
+h1{
+	color:white;
+	font-size: 5em;
+
+}
+
+p {
+	padding: 1em;
+}
+label{
+	color:white;
+}
+h2{
+	color: white;
+	font-size:2em;
+}
+.form {
+	margin : 4em;
+	padding : 2em;	
+}  
+label{
+	font-size: 1em;
+}
+
